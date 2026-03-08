@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../pomiar_odleglosci/main"
+		},
+		{
+			"name": "260301-112446-uno",
+			"path": "../../../../Documents/PlatformIO/Projects/260301-112446-uno"
+		},
+		{
+			"name": "robot_360",
+			"path": "."
+		},
+		{
+			"name": "czujnik_korygujacy_kierunek",
+			"path": "../../../../Documents/PlatformIO/Projects/czujnik_korygujacy_kierunek"
+		}
+	],
+	"settings": {}
+}
